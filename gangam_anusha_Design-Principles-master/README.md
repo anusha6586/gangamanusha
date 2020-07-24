@@ -1,4 +1,4 @@
-# chennoju_shivaprasad_Design-Principles
+# gangam_anusha_Design-Principles
 Epam Home Task-3 Design Principles.
 
 Implementing Design principles in the Calculator App.<br>
